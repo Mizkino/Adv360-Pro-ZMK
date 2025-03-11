@@ -6,3 +6,5 @@
 */
 
 #include "adv360.keymap"
+&lt { quick_tap_ms = <200>; };
+
