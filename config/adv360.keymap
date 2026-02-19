@@ -105,7 +105,7 @@
             bindings = <
 &trans  &trans        &trans        &trans        &trans        &trans  &trans                                      &trans  &trans        &trans        &trans      &trans         &trans  &trans
 &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp N4        &kp N5  &trans                                      &trans  &kp N6        &kp N7        &kp N8      &kp N9         &kp N0  &kp EQUAL
-&trans  &kp LS(LPAR)  &kp LS(RPAR)  &kp LS(LBRC)  &kp LS(RBRC)  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT      &kp DOWN      &kp UP      &kp RIGHT      &trans  &kp NON_US_BACKSLASH
+&trans  &kp LS(LPAR)  &kp LS(RPAR)  &kp LS(LBRC)  &kp LS(RBRC)  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT      &kp DOWN      &kp UP      &kp RIGHT      &trans  &kp BACKSLASH
 &trans  &kp LBKT      &kp RBKT      &kp LBKT      &kp RBKT      &trans                  &trans      &trans                  &kp RG(LEFT)  &kp RG(DOWN)  &kp RG(UP)  &kp RG(RIGHT)  &trans  &trans
 &trans  &trans        &trans        &trans        &trans                &trans  &trans  &trans      &trans  &trans  &trans                &trans        &trans      &trans         &trans  &trans
             >;
